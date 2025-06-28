@@ -35,29 +35,20 @@ Use Case: Customer segmentation, pattern detection, unsupervised grouping.
 🛠 Requirements
 To run these notebooks, install the following Python packages:
 
-bash
-Copy
-Edit
 pip install numpy pandas matplotlib seaborn scikit-learn
+
 For manifold learning:
 
-bash
-Copy
-Edit
 pip install umap-learn
+
 🚀 Getting Started
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+
 Launch Jupyter Notebook:
 
-bash
-Copy
-Edit
 jupyter notebook
 Open any .ipynb file and run the code cells.
 
