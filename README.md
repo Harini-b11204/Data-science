@@ -35,27 +35,28 @@ Use Case: Customer segmentation, pattern detection, unsupervised grouping.
 🛠 Requirements
 To run these notebooks, install the following Python packages:
 
-pip install numpy pandas matplotlib seaborn scikit-learn
+    pip install numpy pandas matplotlib seaborn scikit-learn
 
 For manifold learning:
 
-pip install umap-learn
+    pip install umap-learn
 
 🚀 Getting Started
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+    git clone https://github.com/your-username/your-repo-name.git
+    cd your-repo-name
 
 Launch Jupyter Notebook:
 
-jupyter notebook
-Open any .ipynb file and run the code cells.
+    jupyter notebook
+    Open any .ipynb file and run the code cells.
 
 📌 Notes
-Each notebook is self-contained with explanations, code, and outputs.
 
-Ideal for beginners and intermediates looking to build intuition in ML and visualization.
+    Each notebook is self-contained with explanations, code, and outputs.
+    Ideal for beginners and intermediates looking to build intuition in ML and visualization.
 
 📄 License
-This repository is licensed under the MIT License.
+
+    This repository is licensed under the MIT License.
